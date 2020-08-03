@@ -2,7 +2,8 @@
 
 ## Main Projects
 * **PorphyStruct (currently private Repository)**:
-Structural Analysis of Porphyrinoids Molecular structures of porphyrinoid macrocycles can be represented by a linear combination of their vibrational normal modes. With PorphyStruct displacement diagrams can be generated and simulated to gain insight into the conformation of the obtained substance.
+
+  Structural Analysis of Porphyrinoids Molecular structures of porphyrinoid macrocycles can be represented by a linear combination of their vibrational normal modes. With PorphyStruct displacement diagrams can be generated and simulated to gain insight into the conformation of the obtained substance.
 
 
 ## Recommended Repositories:
