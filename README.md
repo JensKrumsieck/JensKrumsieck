@@ -1,4 +1,4 @@
-## Jens Krumsieck, M.Sc.
+# Jens Krumsieck, M.Sc.
 
 ## Main Projects
 ### <img src="https://github.com/JensKrumsieck/PorphyStruct/blob/master/PorphyStruct/Resources/porphystructlogo.png" alt="logo" height="16"/>  PorphyStruct (currently private Repository):
