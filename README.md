@@ -19,7 +19,7 @@ A small library containing commonly used classes in MVVM. Provides the commonly 
 This script fetches properties for each element in the periodic table from their english wikipedia pages and saves it into a json file which can be used in apps or APIs to provide basic chemical data.
 
 
-## Recommended Repositories:
+### Recommended Repositories:
 * [OxyPlot](https://github.com/oxyplot/oxyplot)
 * [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics)
 * [Math.NET Spatial](https://github.com/mathnet/mathnet-spatial)
