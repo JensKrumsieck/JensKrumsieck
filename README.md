@@ -12,8 +12,8 @@
 
 ## Smaller Projects
 * <img src="https://raw.githubusercontent.com/JensKrumsieck/CHN-Tool/master/.github/chn.png" height="16" alt="LOGO" /> **[CHN Tool](https://github.com/JensKrumsieck/CHN-Tool)**: 
-Recalculates elemental analysis (CHN) with possible impurities. Click here to use: https://jenskrumsieck.github.io/chn/
-* **[TinyMVVM](https://github.com/JensKrumsieck/TinyMVVM)**: 
+Recalculates elemental analysis (CHN) with possible impurities. Click here to use: https://chn.jenskrumsieck.de
+* **[TinyMVVM](https://github.com/JensKrumsieck/TinyMVVM)**:
 A small library containing commonly used classes in MVVM. Provides the commonly used RelayCommand and a BindableBase class as well as ViewModelBase classes.
 * **[Periodic Table API](https://github.com/JensKrumsieck/periodic-table)**: 
 This script fetches properties for each element in the periodic table from their english wikipedia pages and saves it into a json file which can be used in apps or APIs to provide basic chemical data.
