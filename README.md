@@ -22,4 +22,3 @@ This script fetches properties for each element in the periodic table from their
 ### Recommended Repositories:
 * [OxyPlot](https://github.com/oxyplot/oxyplot)
 * [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics)
-* [Math.NET Spatial](https://github.com/mathnet/mathnet-spatial)
