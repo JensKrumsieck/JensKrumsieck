@@ -18,7 +18,11 @@ A small library containing commonly used classes in MVVM. Provides the commonly 
 * **[Periodic Table API](https://github.com/JensKrumsieck/periodic-table)**: 
 This script fetches properties for each element in the periodic table from their english wikipedia pages and saves it into a json file which can be used in apps or APIs to provide basic chemical data.
 
+## List of Publications
+* **Ç. Baş**, **J. Krumsieck**, W.-D. Möller, D.Körner, M. Bröring, _Chem. Eur. J._, **2021**, accepted article, [DOI: 10.1002/chem.202100686](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100686).
+* **P. Schweyen**, M. Hoffmann, J. Krumsieck, B. Wolfram, X. Xie, M. Bröring, _Angew. Chem. Int. Ed._, **2016**, _55_, 10118, [DOI: 10.1002/anie.201604297](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201604297).
 
 ### Recommended Repositories:
 * [OxyPlot](https://github.com/oxyplot/oxyplot)
 * [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics)
+
