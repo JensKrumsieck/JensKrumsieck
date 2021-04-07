@@ -1,7 +1,7 @@
 # Jens Krumsieck, M.Sc.
 
 ## Main Projects
-### <img src="https://github.com/JensKrumsieck/PorphyStruct/raw/master/PorphyStruct.WPF/Resources/porphystruct.png" alt="logo" height="16"/>  PorphyStruct (currently private Repository):
+### <img src="https://github.com/JensKrumsieck/PorphyStruct/raw/master/PorphyStruct.WPF/Resources/porphystruct.png" alt="logo" height="16"/>  [PorphyStruct](https://github.com/JensKrumsieck/PorphyStruct):
   Structural Analysis of Porphyrinoids Molecular structures of porphyrinoid macrocycles can be represented by a linear combination of their vibrational normal modes. With PorphyStruct displacement diagrams can be generated and simulated to gain insight into the conformation of the obtained substance.
 
 ### <img src="https://raw.githubusercontent.com/JensKrumsieck/SPCViewer/chemsharp/.github/spc.png" alt="logo" height="16"/> [SPCViewer](https://github.com/JensKrumsieck/SPCViewer):
