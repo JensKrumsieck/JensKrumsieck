@@ -19,6 +19,9 @@ A small library containing commonly used classes in MVVM. Provides the commonly 
 This script fetches properties for each element in the periodic table from their english wikipedia pages and saves it into a json file which can be used in apps or APIs to provide basic chemical data.
 
 ## List of Publications
+* ### PorphyStruct – A Digital Tool for the Quantitative Assignment of Non-Planar Distortion Modes in Four-Membered Porphyrinoids
+  **J. Krumsieck**, M. Bröring, _Chem. Eur J._, **2021**, DOI: [10.1002/chem.202101243](https://doi.org/10.1002/chem.202101243)
+
 * ### Zinc‐ and Cadmium meso‐Aryl‐Isoporphyrins: Non‐Aromatic NIR Dyes with Distinct Conformational Features  
   **Ç. Baş**, **J. Krumsieck**, W.-D. Möller, D. Körner, M. Bröring, _Chem. Eur. J._, **2021**, _27_, 8021 – 8029, [DOI: 10.1002/chem.202100686](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100686).
   
