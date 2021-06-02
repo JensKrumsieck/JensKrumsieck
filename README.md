@@ -24,6 +24,7 @@ This script fetches properties for each element in the periodic table from their
 
 * ### Zinc‐ and Cadmium meso‐Aryl‐Isoporphyrins: Non‐Aromatic NIR Dyes with Distinct Conformational Features  
   **Ç. Baş**, **J. Krumsieck**, W.-D. Möller, D. Körner, M. Bröring, _Chem. Eur. J._, **2021**, _27_, 8021 – 8029, [DOI: 10.1002/chem.202100686](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100686).
+  "**Very Important Paper**"
   
   [**Cover Feature**](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202101554)
 * ### Metal‐Assisted One‐Pot Synthesis of Isoporphyrin Complexes   
