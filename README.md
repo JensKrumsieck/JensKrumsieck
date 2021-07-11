@@ -23,6 +23,9 @@ This script fetches properties for each element in the periodic table from their
   **J. Krumsieck**, M. Bröring, _Chem. Eur J._, **2021**, DOI: [10.1002/chem.202101243](https://doi.org/10.1002/chem.202101243)
   
   **Very Important Paper** - [**Front Cover**](http://doi.org/10.1002/chem.202101992) - [**Cover Profile**](http://doi.org/10.1002/chem.202101993)
+  
+  Featured in: 
+  * [ChemistryViews](https://www.chemistryviews.org/details/ezine/11308216/PorphyStruct_Conformational_Analysis_of_Porphyrinoids.html)
 
 * ### Zinc‐ and Cadmium meso‐Aryl‐Isoporphyrins: Non‐Aromatic NIR Dyes with Distinct Conformational Features  
   **Ç. Baş**, **J. Krumsieck**, W.-D. Möller, D. Körner, M. Bröring, _Chem. Eur. J._, **2021**, _27_, 8021 – 8029, [DOI: 10.1002/chem.202100686](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100686).
@@ -30,6 +33,9 @@ This script fetches properties for each element in the periodic table from their
   [**Cover Feature**](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202101554)
 * ### Metal‐Assisted One‐Pot Synthesis of Isoporphyrin Complexes   
    **P. Schweyen**, M. Hoffmann, J. Krumsieck, B. Wolfram, X. Xie, M. Bröring, _Angew. Chem. Int. Ed._, **2016**, _55_, 10118, [DOI: 10.1002/anie.201604297](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201604297).
+   
+   Featured in:
+   * [Atlas Of Science](http://atlasofscience.org/isoporphyrins-bioinspired-nir-dyes/)
 
 ### Recommended Repositories:
 * [OxyPlot](https://github.com/oxyplot/oxyplot)
