@@ -11,8 +11,6 @@
 ## Smaller Projects
 * <img src="https://raw.githubusercontent.com/JensKrumsieck/CHN-Tool/master/.github/chn.png" height="16" alt="LOGO" /> **[CHN Tool](https://github.com/JensKrumsieck/CHN-Tool)**: 
 Recalculates elemental analysis (CHN) with possible impurities. Click here to use: https://chn.jenskrumsieck.de
-* <img src="https://raw.githubusercontent.com/JensKrumsieck/SPCViewer/chemsharp/.github/spc.png" alt="logo" height="16"/> **[SPCViewer](https://github.com/JensKrumsieck/SPCViewer)**:
-  SPCViewer (fka. BluEPRint) is capable of viewing and analyzing Spectra from various Spectrometers. EPR, NMR and UV/Vis Spectra are currently supported.
 * **[TinyMVVM](https://github.com/JensKrumsieck/TinyMVVM)**:
 A small library containing commonly used classes in MVVM. Provides the commonly used RelayCommand and a BindableBase class as well as ViewModelBase classes.
 * **[Periodic Table API](https://github.com/JensKrumsieck/periodic-table)**: 
