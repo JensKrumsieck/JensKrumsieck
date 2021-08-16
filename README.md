@@ -24,6 +24,7 @@ This script fetches properties for each element in the periodic table from their
   
   Featured in: 
   * [ChemistryViews](https://www.chemistryviews.org/details/ezine/11308216/PorphyStruct_Conformational_Analysis_of_Porphyrinoids.html)
+  * [TU Braunschweig Magazine](https://magazin.tu-braunschweig.de/en/pi-post/digital-tools-for-observing-molecular-gymnastics/) - ([German Version](https://magazin.tu-braunschweig.de/pi-post/digitale-helfer-zur-beobachtung-von-molekuel-gymnastik/))
 
 * ### Zinc‐ and Cadmium meso‐Aryl‐Isoporphyrins: Non‐Aromatic NIR Dyes with Distinct Conformational Features  
   **Ç. Baş**, **J. Krumsieck**, W.-D. Möller, D. Körner, M. Bröring, _Chem. Eur. J._, **2021**, _27_, 8021 – 8029, [DOI: 10.1002/chem.202100686](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100686).
