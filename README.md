@@ -1,4 +1,4 @@
-# Jens Krumsieck, M.Sc.
+# [Jens Krumsieck, M.Sc.](https://jenskrumsieck.de)
 
 ## Main Projects
 ### <img src="https://github.com/JensKrumsieck/PorphyStruct/raw/master/PorphyStruct.WPF/Resources/porphystruct.png" alt="logo" height="16"/>  [PorphyStruct](https://github.com/JensKrumsieck/PorphyStruct):
