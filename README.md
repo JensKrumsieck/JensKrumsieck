@@ -1,4 +1,15 @@
-# [Jens Krumsieck, M.Sc.](https://jenskrumsieck.de)
+<h1 align="center"><a href="https://jenskrumsieck.de">Jens Krumsieck, M.Sc.</a></h1>
+<h3 align="center">Chemist | Software Developer </h3>
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Jens-Krumsieck"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" width="24" alt="ResearchGate"/>
+  <a href="https://orcid.org/0000-0001-6242-5846"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" width="24" alt="ORCID"/>
+  <a href="https://twitter.com/jens_ation"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="24" alt="Twitter"/>
+  <a href="https://www.instagram.com/jens.ation/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="24" alt="Instagram"/>
+  <a href="https://www.youtube.com/c/JensKrumsieck"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="24" alt="YouTube"/>
+  <a href="https://www.xing.com/profile/Jens_Krumsieck"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" width="24" alt="Xing"/>
+  <a href="https://www.linkedin.com/in/jens-krumsieck-849445211/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="24" alt="LinkedIn"/>
+</p>
+
 
 ## Main Projects
 ### <img src="https://github.com/JensKrumsieck/PorphyStruct/raw/master/PorphyStruct.WPF/Resources/porphystruct.png" alt="logo" height="16"/>  [PorphyStruct](https://github.com/JensKrumsieck/PorphyStruct):
@@ -35,8 +46,6 @@ This script fetches properties for each element in the periodic table from their
    
    Featured in:
    * [Atlas Of Science](http://atlasofscience.org/isoporphyrins-bioinspired-nir-dyes/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenskrumsieck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Recommended Repositories:
