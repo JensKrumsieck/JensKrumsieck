@@ -36,6 +36,9 @@ This script fetches properties for each element in the periodic table from their
    Featured in:
    * [Atlas Of Science](http://atlasofscience.org/isoporphyrins-bioinspired-nir-dyes/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenskrumsieck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Recommended Repositories:
 * [OxyPlot](https://github.com/oxyplot/oxyplot)
 * [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics)
