@@ -60,11 +60,11 @@ A Library for processing of chemistry related files (aiming at spectroscopy and 
 <hr/>
 
 ### Metal‐Assisted One‐Pot Synthesis of Isoporphyrin Complexes
-  **P. Schweyen**, M. Hoffmann, J. Krumsieck, B. Wolfram, X. Xie, M. Bröring, _Angew. Chem. Int. Ed._, **2016**, _55_, 10118, [DOI: 10.1002/anie.201604297](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201604297).
+  **P. Schweyen**, M. Hoffmann, J. Krumsieck, B. Wolfram, X. Xie, M. Bröring, _Angew. Chem. Int. Ed._, **2016**, _55_, 10118, DOI: [10.1002/anie.201604297](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201604297).
   #### Featured in:
   - [Atlas Of Science](http://atlasofscience.org/isoporphyrins-bioinspired-nir-dyes/)
 
   <hr/>
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenskrumsieck&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
