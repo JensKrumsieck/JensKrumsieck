@@ -28,7 +28,9 @@ A Library for processing of chemistry related files (aiming at spectroscopy and 
   A small library containing commonly used classes in MVVM. Provides the commonly used RelayCommand and a BindableBase class as well as ViewModelBase classes.
 - **[Periodic Table API](https://github.com/JensKrumsieck/periodic-table)**:
   This script fetches properties for each element in the periodic table from their english wikipedia pages and saves it into a json file which can be used in apps or APIs to provide basic chemical data.
-
+- #### Scripts: [PorphyStruct Scripts](https://github.com/JensKrumsieck/porphystruct-scripts) | [ORCA Scripts](https://github.com/JensKrumsieck/orca-scripts)
+    
+    
 ## List of Publications
 
 <img align="left" src="https://jenskrumsieck.de/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fimg%2Fps_cover.2db914428ca606479adfad82b4a82f75.jpg&w=1920&q=75" width=120 alt=""/>
