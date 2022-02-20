@@ -26,6 +26,8 @@ A Library for processing of chemistry related files (aiming at spectroscopy and 
   Recalculates elemental analysis (CHN) with possible impurities. Click here to use: https://chn.jenskrumsieck.de
 - **[TinyMVVM](https://github.com/JensKrumsieck/TinyMVVM)**:
   A small library containing commonly used classes in MVVM. Provides the commonly used RelayCommand and a BindableBase class as well as ViewModelBase classes.
+- **[OxyPlot.SkiaSharp.Blazor](https://github.com/JensKrumsieck/OxyPlot.SkiaSharp.Blazor)**:
+    Blazor Webassembly Integration of the popular plotting library OxyPlot
 - **[Periodic Table API](https://github.com/JensKrumsieck/periodic-table)**:
   This script fetches properties for each element in the periodic table from their english wikipedia pages and saves it into a json file which can be used in apps or APIs to provide basic chemical data.
 - #### Scripts: [PorphyStruct Scripts](https://github.com/JensKrumsieck/porphystruct-scripts) | [ORCA Scripts](https://github.com/JensKrumsieck/orca-scripts)
