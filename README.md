@@ -39,7 +39,7 @@ Generates Profilpictures based on the design of the german green party Bündnis 
 <p>
 
 ### Do Corroles Stabilize Tetravalent Antimony?
-**S. Eulberg**, N. Schulze, J. Krumsieck, N. Klein, M. Bröring, <em>Angew. Chem.</em>, <b>2023</b> , <em>62</em>, e202306598, DOI:  <a href="http://doi.org/10.1002/anie.202306598">10.1002/anie.202306598</a>
+**S. Eulberg**, N. Schulze, J. Krumsieck, N. Klein, M. Bröring, <em>Angew. Chem. Int. Ed.</em>, <b>2023</b> , <em>62</em>, e202306598, DOI:  <a href="http://doi.org/10.1002/anie.202306598">10.1002/anie.202306598</a>
 <hr/>
 
 ### PorphyStruct – A Digital Tool for the Quantitative Assignment of Non-Planar Distortion Modes in Four-Membered Porphyrinoids
