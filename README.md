@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://www.researchgate.net/profile/Jens-Krumsieck"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" width="24" alt="ResearchGate"/>
   <a href="https://orcid.org/0000-0001-6242-5846"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" width="24" alt="ORCID"/>
-  <a href="https://twitter.com/jens_ation"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="24" alt="Twitter"/>
   <a href="https://www.instagram.com/jens.ation/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="24" alt="Instagram"/>
   <a href="https://www.youtube.com/c/JensKrumsieck"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="24" alt="YouTube"/>
   <a href="https://www.xing.com/profile/Jens_Krumsieck"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" width="24" alt="Xing"/>
