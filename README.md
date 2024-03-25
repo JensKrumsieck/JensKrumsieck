@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://jenskrumsieck.de">Jens Krumsieck, M.Sc.</a></h1>
+<h1 align="center"><a href="https://jenskrumsieck.de">Dr. Jens Krumsieck</a></h1>
 <h3 align="center">Chemist | Software Developer </h3>
 <p align="center">
   <a href="https://www.researchgate.net/profile/Jens-Krumsieck"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" width="24" alt="ResearchGate"/>
