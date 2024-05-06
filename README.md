@@ -19,7 +19,7 @@ Structural Analysis of Porphyrinoids Molecular structures of porphyrinoid macroc
 
 A Library for processing of chemistry related files (aiming at spectroscopy and structural files) - To give multiple projects a single codebase
 
-### <img src="https://profilbegruenung.jenskrumsieck.de/logo.png" alt="Logo" height="16" /> [Profilbegrünung](https://github.com/JensKrumsieck/profile-frame)
+### <img src="https://profilbegruenung.jenskrumsieck.de/logo.png" alt="Logo" height="16" /> [Profilbegrünung](https://github.com/JensKrumsieck/Profilbegruenung)
 
 Generates Profilpictures based on the design of the german green party Bündnis 90/Die Grünen.
 
