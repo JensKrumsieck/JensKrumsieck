@@ -2,7 +2,7 @@
 <h3 align="center">Chemist | Software Developer </h3>
 
 [![ORCID](https://img.shields.io/badge/ORCID-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6242-5846)
-[![Researchgate](https://img.shields.io/badge/Researchgate-00ccbb?logo=researchgate&logoColor=white)]([https://orcid.org/0000-0001-6242-5846](https://www.researchgate.net/profile/Jens-Krumsieck))
+[![Researchgate](https://img.shields.io/badge/Researchgate-00ccbb?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jens-Krumsieck)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenskrumsieck)
 [![Xing](https://img.shields.io/badge/Xing-026466?logo=xing&logoColor=white)](https://www.xing.com/profile/Jens_Krumsieck)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white)](https://github.com/JensKrumsieck)
