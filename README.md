@@ -7,13 +7,12 @@
 [![Xing](https://img.shields.io/badge/Xing-026466?logo=xing&logoColor=white)](https://www.xing.com/profile/Jens_Krumsieck)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white)](https://github.com/JensKrumsieck)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/jens.ation/)
-
+<a href="https://fairagro.net"><img src="./assets/fairagro.png" height="22px"/></a>
 
 ## 🚀 Main Projects
 
 ### [SciWIn Client](https://github.com/fairagro/m4.4_sciwin_client):
-
-Computational workflows, which describe complex, multi-step procedures for automated execution, are essential for ensuring reproducibility, scalability, and efficiency in scientific research. The FAIRagro Scientific Workflow Infrastructure (SciWIn) supports scientists to create, execute, share, and publish these workflows, fostering collaboration and transparency.
+Computational workflows, which describe complex, multi-step procedures for automated execution, are essential for ensuring reproducibility, scalability, and efficiency in scientific research. The [FAIRagro](https://fairagro.net) Scientific Workflow Infrastructure (SciWIn) supports scientists to create, execute, share, and publish these workflows, fostering collaboration and transparency.
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/fairagro/m4.4_sciwin_client) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/fairagro/m4.4_sciwin_client/total)](https://github.com/fairagro/m4.4_sciwin_client)
 
