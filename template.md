@@ -7,7 +7,6 @@
 [![Xing](https://img.shields.io/badge/Xing-026466?logo=xing&logoColor=white)](https://www.xing.com/profile/Jens_Krumsieck)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white)](https://github.com/JensKrumsieck)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/jens.ation/)
-<a href="https://fairagro.net"><img src="./assets/fairagro.png" height="22px" alt="FAIRagro Logo"/></a>
 
 ## 🚀 Main Projects
 
