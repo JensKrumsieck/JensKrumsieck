@@ -13,7 +13,7 @@
 ### [SciWIn Client](https://github.com/fairagro/m4.4_sciwin_client):
 Computational workflows, which describe complex, multi-step procedures for automated execution, are essential for ensuring reproducibility, scalability, and efficiency in scientific research. The [FAIRagro](https://fairagro.net) Scientific Workflow Infrastructure (SciWIn) supports scientists to create, execute, share, and publish these workflows, fostering collaboration and transparency.
 
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/fairagro/m4.4_sciwin_client) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/fairagro/m4.4_sciwin_client/total)](https://github.com/fairagro/m4.4_sciwin_client)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/fairagro/m4.4_sciwin_client) ![GitHub Downloads (all assets, all releases)](https://raw.githubusercontent.com/fairagro/m4.4_metrics/refs/heads/master/badge.svg)](https://github.com/fairagro/m4.4_sciwin_client)
 
 ### [PorphyStruct](https://github.com/JensKrumsieck/PorphyStruct):
 
