@@ -24,11 +24,11 @@ Structural Analysis of Porphyrinoids Molecular structures of porphyrinoid macroc
 ## 📚 Latest Blog Posts
 
 
+- [Listenplatz 1 in Braunschweig-Südwest](https://jenskrumsieck.de/blog/listenplatz-1-in-braunschweig-sudwest)
+- [Eine Liebeserklärung an die Mobilität: Meine Bewerbungsrede bei der Aufstellungsversammlung](https://jenskrumsieck.de/blog/meine-bewerbungsrede-bei-der-aufstellungsversammlung)
+- [Meine Bewerbung für den Rat der Stadt](https://jenskrumsieck.de/blog/meine-bewerbung-fur-den-rat-der-stadt)
 - [Wahlvorhersagen für die Stadt Braunschweig](https://jenskrumsieck.de/blog/wahlvorhersagen-fur-die-stadt-braunschweig)
 - [Warum die CDU gegen ein AfD Verbot ist](https://jenskrumsieck.de/blog/warum-die-cdu-gegen-ein-afd-verbot-ist)
-- [Für ein klimaneutrales Braunschweig: Volle Umsetzung des Veloroutennetzes](https://jenskrumsieck.de/blog/velorouten-jetzt)
-- [Die Brandmauer ist gefallen – Ein Dammbruch in der deutschen Demokratie](https://jenskrumsieck.de/blog/die-brandmauer-ist-gefallen)
-- [„Sondervermögen Demokratie“ auf den Weg bringen](https://jenskrumsieck.de/blog/sondervermoegen-demokratie-auf-den-weg-bringen)
   
 [▶️ All Posts](https://jenskrumsieck.de/blog)
 
