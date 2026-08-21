@@ -13,7 +13,7 @@
 ### [SciWIn Client](https://github.com/fairagro/sciwin):
 Computational workflows, which describe complex, multi-step procedures for automated execution, are essential for ensuring reproducibility, scalability, and efficiency in scientific research. The [FAIRagro](https://fairagro.net) Scientific Workflow Infrastructure (SciWIn) supports scientists to create, execute, share, and publish these workflows, fostering collaboration and transparency.
 
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/fairagro/sciwin) ![GitHub Downloads ](https://raw.githubusercontent.com/fairagro/m4.4_metrics/refs/heads/master/badge.svg)](https://github.com/fairagro/sciwin)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/fairagro/sciwin) ![GitHub Downloads (all assets, all releases)](https://raw.githubusercontent.com/fairagro/m4.4_metrics/refs/heads/master/badge.svg)](https://github.com/fairagro/sciwin)
 
 ### [PorphyStruct](https://github.com/JensKrumsieck/PorphyStruct):
 
@@ -24,11 +24,11 @@ Structural Analysis of Porphyrinoids Molecular structures of porphyrinoid macroc
 ## 📚 Latest Blog Posts
 
 
+- [Braunschweig Wahlcheck](https://jenskrumsieck.de/blog/braunschweig-wahlcheck)
 - [Listenplatz 1 in Braunschweig-Südwest](https://jenskrumsieck.de/blog/listenplatz-1-in-braunschweig-sudwest)
 - [Eine Liebeserklärung an die Mobilität: Meine Bewerbungsrede bei der Aufstellungsversammlung](https://jenskrumsieck.de/blog/meine-bewerbungsrede-bei-der-aufstellungsversammlung)
 - [Meine Bewerbung für den Rat der Stadt](https://jenskrumsieck.de/blog/meine-bewerbung-fur-den-rat-der-stadt)
 - [Wahlvorhersagen für die Stadt Braunschweig](https://jenskrumsieck.de/blog/wahlvorhersagen-fur-die-stadt-braunschweig)
-- [Warum die CDU gegen ein AfD Verbot ist](https://jenskrumsieck.de/blog/warum-die-cdu-gegen-ein-afd-verbot-ist)
   
 [▶️ All Posts](https://jenskrumsieck.de/blog)
 
