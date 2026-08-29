@@ -24,11 +24,11 @@ Structural Analysis of Porphyrinoids Molecular structures of porphyrinoid macroc
 ## 📚 Latest Blog Posts
 
 
+- [Was kostet ein Brötchen und was kostet der Parkplatz davor?](https://jenskrumsieck.de/blog/was-kostet-parken-in-braunschweig)
 - [Braunschweig Wahlcheck](https://jenskrumsieck.de/blog/braunschweig-wahlcheck)
 - [Listenplatz 1 in Braunschweig-Südwest](https://jenskrumsieck.de/blog/listenplatz-1-in-braunschweig-sudwest)
 - [Eine Liebeserklärung an die Mobilität: Meine Bewerbungsrede bei der Aufstellungsversammlung](https://jenskrumsieck.de/blog/meine-bewerbungsrede-bei-der-aufstellungsversammlung)
 - [Meine Bewerbung für den Rat der Stadt](https://jenskrumsieck.de/blog/meine-bewerbung-fur-den-rat-der-stadt)
-- [Wahlvorhersagen für die Stadt Braunschweig](https://jenskrumsieck.de/blog/wahlvorhersagen-fur-die-stadt-braunschweig)
   
 [▶️ All Posts](https://jenskrumsieck.de/blog)
 
